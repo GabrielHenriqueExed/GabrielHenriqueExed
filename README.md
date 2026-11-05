@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielHenriqueExed&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <!-- Gráfico de calor de contribuições (Commits) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielHenriqueExed&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

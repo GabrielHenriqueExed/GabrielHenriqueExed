@@ -1,16 +1,42 @@
-## Hi there 👋
+### Olá, mundo! 👋 Sou o Gabriel Henrique
 
-<!--
-**GabrielHenriqueExed/GabrielHenriqueExed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudando%20e%20Codando-brightgreen?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Café-Xícaras%20Infinitas-orange?style=for-the-badge&logo=ko-fi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Minhas Stacks & Ferramentas
+
+<p align="left">
+  <!-- ABAP / Core -->
+  <img src="https://img.shields.io/badge/ABAP-0070F2?style=for-the-badge&logo=SAP&logoColor=white" alt="ABAP" />
+  <img src="https://img.shields.io/badge/SAP%20RAP-0070F2?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP RAP" />
+  <img src="https://img.shields.io/badge/SAP%20BTP-0070F2?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP BTP" />
+  <img src="https://img.shields.io/badge/SAP%20UI5%20%2F%20Fiori-0070F2?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP Fiori" />
+  <img src="https://img.shields.io/badge/SAP%20Basis-333333?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP Basis" />
+  <!-- Ferramentas e Integrações -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+---
+
+### 📈 Estatísticas e Produtividade
+
+<p align="center">
+  <!-- Números gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueExed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Linguagens mais utilizadas no dia a dia -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueExed&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <!-- Gráfico de calor de contribuições (Commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielHenriqueExed&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
